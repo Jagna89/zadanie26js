@@ -1,15 +1,15 @@
-let listaProduktówMlecznych = 5;
+let listaProduktowMlecznych = 5;
 
-console.log(listaProduktówMlecznych);
+console.log(listaProduktowMlecznych);
 
-let listaProduktówŚwieżych = 1;
+let listaProduktowSwiezych = 1;
 
-console.log(listaProduktówŚwieżych);
+console.log(listaProduktowSwiezych);
 
-let listaPółproduktów = 4;
+let listaPołproduktow = 4;
 
-console.log(listaPółproduktów);
+console.log(listaPołproduktow);
 
-let listaZakupów = [5, 1, 4,]
+let listaZakupów = [listaProduktowMlecznych, listaProduktowSwiezych, listaPołproduktow ]
 
 console.log(listaZakupów);
